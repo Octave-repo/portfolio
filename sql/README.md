@@ -1,0 +1,1 @@
+This is a small app still work in project I used to test my knowledge in SQL.
